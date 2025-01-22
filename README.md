@@ -1,2 +1,2 @@
- This website was made as a personal project for my personal learning and understding od JavaScript in detail. Inspired by the original website.
+ This website was made as a personal project for my personal learning and understanding of JavaScript in detail. Inspired by the original website.
  
